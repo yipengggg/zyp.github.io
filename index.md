@@ -19,6 +19,6 @@ A passionate researcher dedicated to designing innovative robotic systems inspir
 
 - **[Oct. 2024]** Our paper about Soft Robotics has submitted to RoboSoft 2025 conference.
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/Research_Project.md %}
 
 
