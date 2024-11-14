@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-MS in Mechanical Engineering and Applied Mechanics from the University of Pennsylvania, 2025.
+MS in Mechanical Engineering and Applied Mechanics from the University of Pennsylvania, 2025.  
 BS in Mechanical Engineering from Sorbonne University, 2023.
 
 A passionate researcher dedicated to designing innovative robotic systems inspired by natural mechanisms. Experienced in soft robot fabrication, flow dynamic analysis, and data-driven optimization. Skilled in applying machine learning techniques to optimize robotic control systems and streamline simulation development. Currently working on squid-inspired robotic propulsion and flow-field analysis at the GRASP Laboratory's Sung Lab at the University of Pennsylvania.
