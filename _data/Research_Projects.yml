@@ -20,3 +20,14 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Plan to submit
     image: ./assets/img/teaser_example.png
+
+  - title: Master Thesis:Exploring the influence of geometric shapes on the flow field
+    #authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    #conference_short: CVPR
+    conference: Nature Machine Intelligence
+    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Plan to submit
+    image: ./assets/img/teaser_example_2.png
