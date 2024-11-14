@@ -28,5 +28,5 @@ main:
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: 
+    image: ./assets/img/test.png
     notes: Early Accept
