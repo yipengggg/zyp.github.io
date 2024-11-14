@@ -21,4 +21,4 @@ A passionate researcher dedicated to designing innovative robotic systems inspir
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
