@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at xxxxxxx
+MS in Mechanical Engineering and Applied Mechanics from the University of Pennsylvania, 2025.
+BS in Mechanical Engineering from Sorbonne University, 2023.
+
+A passionate researcher dedicated to designing innovative robotic systems inspired by natural mechanisms. Experienced in soft robot fabrication, flow dynamic analysis, and data-driven optimization. Skilled in applying machine learning techniques to optimize robotic control systems and streamline simulation development. Currently working on squid-inspired robotic propulsion and flow-field analysis at the GRASP Laboratory's Sung Lab at the University of Pennsylvania.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Soft Robotics:** bio-inspired design, material fabrication, actuation mechanisms, locomotion strategies
+- **Flow Dynamics:** vortex analysis, flow visualization, computational fluid dynamics (CFD)
+- **Machine Learning:** Equivariant Neural Networks (E(3)NNs), Evidential Learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** Our paper about Soft Robotics has submitted to RoboSoft 2025 conference.
 
 {% include_relative _includes/publications.md %}
 
