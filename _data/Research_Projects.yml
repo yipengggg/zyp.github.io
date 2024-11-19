@@ -19,6 +19,7 @@ main:
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    details: assets/files/Self-introduction Of Doctoral.pdf
     notes: Plan to submit
     image: ./assets/img/teaser_example.png
 
@@ -30,5 +31,6 @@ main:
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    details: assets/files/Self-introduction Of Doctoral.pdf
     notes: Plan to submit
     image: ./assets/img/teaser_example_2.png
