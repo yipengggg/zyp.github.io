@@ -56,7 +56,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 /*.Research_Projects ol.bibliography li .title { font-weight: bolder; }*/
 .Research_Projects ol.bibliography li .title {
     font-weight: bolder; /* 保持字体加粗 */
-    color: blue; /* 设置标题颜色为蓝色 */
+    color: #002D72; /* 设置标题颜色为蓝色 */
 }
 
 
