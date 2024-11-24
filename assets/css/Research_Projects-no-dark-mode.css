@@ -53,9 +53,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .Research_Projects ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
-.Research_Projects ol.bibliography li .title { font-weight: bolder; }
+.Research_Projects ol.bibliography li .title { font-weight: bolder; color: var(--global-theme-color); }
 
-.Research_Projects ol.bibliography li .title { color: var(--global-theme-color); }
+/*.Research_Projects ol.bibliography li .title { color: var(--global-theme-color); }*/
 
 .Research_Projects ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
