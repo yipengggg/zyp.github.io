@@ -73,3 +73,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .Research_Projects ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .Research_Projects ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+/* 标题悬停时保持原始颜色 */
+.Research_Projects ol.bibliography li .title a:hover {
+    color: inherit; /* 保持原始字体颜色 */
+    text-decoration: none; /* 如果需要，禁用下划线 */
+}
