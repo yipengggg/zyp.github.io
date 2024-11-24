@@ -46,7 +46,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .Research_Projects ol.bibliography li .abbr abbr a { color: white; }
 
-.Research_Projects ol.bibliography li .abbr abbr a:hover { text-decoration: none; }
+/*.Research_Projects ol.bibliography li .abbr abbr a:hover { text-decoration: none; }*/
+.Research_Projects ol.bibliography li .abbr abbr a:hover {
+    text-decoration: none; /* 保持链接无下划线 */
+    color: inherit; /* 保持原始字体颜色 */
+}
+
 
 .Research_Projects ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
