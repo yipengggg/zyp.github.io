@@ -32,5 +32,5 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     details: assets/files/Self-introduction Of Doctoral.pdf
-    notes: Plan to submit
+    #notes: Plan to submit
     image: ./assets/img/teaser_example_2.png
