@@ -8,7 +8,7 @@ main:
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/test.png
+    image: ./assets/img/body.png
     notes: Submitted
 
   - title: Prediction of the Hamiltonian using equivariant neural networks(ENN)
@@ -21,7 +21,7 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     details: assets/files/Self-introduction Of Doctoral.pdf
     notes: Plan to submit
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/enn.png
 
   - title: Master Thesis:Exploring the influence of geometric shapes on the flow field
     #authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
@@ -33,4 +33,4 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     details: assets/files/Self-introduction Of Doctoral.pdf
     #notes: Plan to submit
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/PIV.png
