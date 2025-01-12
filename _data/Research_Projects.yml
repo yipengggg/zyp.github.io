@@ -23,7 +23,7 @@ main:
     notes: Plan to submit
     image: ./assets/img/enn.png
 
-  - title: Master Thesis:SALP soft robot simulation and optimization 
+  - title: Master Thesis: SALP soft robot simulation and optimization 
     #authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     #conference_short: CVPR
     conference: plan to expand into a paper
