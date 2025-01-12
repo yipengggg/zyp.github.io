@@ -1,6 +1,6 @@
 main:
 
-  - title: Multi-SALP Robots System
+  - title: Multi-SALP Soft Robotic System
     #authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     #conference_short: MICCAI
     conference: RoboSoft, 2025.
@@ -23,7 +23,7 @@ main:
     notes: Plan to submit
     image: ./assets/img/enn.png
 
-  - title: Master Thesis:Exploring the influence of geometric shapes on the flow field
+  - title: Master Thesis:SALP soft robot simulation and optimization 
     #authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     #conference_short: CVPR
     conference: plan to expand into a paper
